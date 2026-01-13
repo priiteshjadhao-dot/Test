@@ -7,8 +7,8 @@ create table student (
     age int NOT NULL
 );
 
-INSERT INTO STUDENT VALUES(1, 'PRITESH', 26);
-INSERT INTO STUDENT VALUES(2, 'RAHUL', 24);
+INSERT INTO STUDENT VALUES(1, 'rajesh',26);
+
 
 
 
